@@ -77,7 +77,7 @@ If terminology seems confusing, please refer to the [GitHub Glossary](https://he
 
 1. On GitHub, create a new repository. Name it *username.github.io* where username is *your* GitHub username. Type the username exactly as it appears as GitHub is case sensitive. Click the checkbox next to 'Initialize this repository with a README'.
 
-2. Click 'Set up in Desktop'. When prompted to clone the repository, make sure "Clone As:" is *username.github.io* (again, where username is *your* username). Make note of the directory you are saving this cloned repo in. You will need to know this later.
+2. Click 'Clone in Desktop'. When prompted to clone the repository, make sure "Clone As:" is *username.github.io* (again, where username is *your* username). Make note of the directory you are saving this cloned repo in. You will need to know this later.
 
 3. Access the cloned repository on your computer. Open the directory (or README file) to Atom. This should get you set up to work in the correct directory.
 
